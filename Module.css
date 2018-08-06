@@ -1,0 +1,116 @@
+.search-input{
+    margin-bottom: 16px;
+}
+.btn-creator{
+    float: right;
+    margin-bottom: 15px;
+}
+
+.flex{
+    flex: auto;
+}
+
+.center-div-loader{
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-creator{
+    /* min-width: 200px; */
+    float: right;
+    margin: 0;
+}
+
+.content-module{
+    padding: 16px;
+    border-radius: 7px;
+    display: flex;
+    flex: auto;
+    flex-direction: column
+}
+
+.box-content{
+    background: #fff;
+    padding: 15px;
+}
+.no-mar-pad{
+    margin: 0;
+    padding: 0;
+}
+
+.center-card{
+    display: block;
+    margin: 0 auto;
+}
+form .ant-input-number {
+    width: 100%;
+}
+.table-header{
+    margin-bottom: 16px;
+}
+
+
+.ant-breadcrumb-link {
+  cursor: pointer;
+}
+
+
+.actions-col{
+    width: 100px;
+}
+.ant-upload-select-picture-card i {
+    font-size: 32px;
+    color: #999;
+  }
+
+  .ant-upload-select-picture-card .ant-upload-text {
+    margin-top: 8px;
+    color: #666;
+  }
+
+
+.upload-image-user {
+    position: absolute;
+    right: 0;
+    height: 400%;
+    z-index: 10;
+}
+
+.image-perfil-file{
+    width: 200px;
+    height: 220px;
+    background: #d9d9d9;
+    margin: 0 0 10px 0;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 6em;
+    line-height: 220px;
+    color: #ccc;
+    cursor: pointer;
+    background-size: 100% 100%;
+}
+.btn-image-perfil{
+    width: 200px;
+}
+
+.upload-list-inline .icon-remove-element-image{
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.upload-list-inline:hover .background-image-file{
+    background: rgba(102, 102, 102, 0.3);
+}
+
+.upload-list-inline:hover .icon-remove-element-image{
+    opacity: 1;
+    color: #fff;
+    transform: scale(0.5)
+}
+
+.upload-image-user .background-image-file:hover{
+    background: rgba(102, 102, 102, 0.3);
+
+}

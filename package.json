@@ -1,0 +1,23 @@
+{
+  "name": "shaman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NTM-SENAI/shaman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NTM-SENAI/shaman/issues"
+  },
+  "homepage": "https://github.com/NTM-SENAI/shaman#readme",
+  "dependencies": {
+    "antd": "^3.8.0",
+    "parse": "^2.0.0"
+  }
+}

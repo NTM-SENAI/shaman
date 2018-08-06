@@ -1,0 +1,9 @@
+.input-slide-col .ant-input, .input-slide-col .ant-slider, .input-slide-col span{
+  float: left;
+  width: 29%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.input-slide-col .ant-input-affix-wrapper input{
+  width: 100%
+}
